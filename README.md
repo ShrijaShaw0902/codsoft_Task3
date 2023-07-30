@@ -1,5 +1,4 @@
 # codsoft_Task3
-<<<<<<< HEAD
 Password Generator:
 This is a simple password generator script that allows we to generate strong and secure passwords for your accounts. It takes user input for the username and desired password length and then generates a random password for we.
 
