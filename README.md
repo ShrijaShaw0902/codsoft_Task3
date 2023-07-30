@@ -1,4 +1,5 @@
 # codsoft_Task3
+<<<<<<< HEAD
 Password Generator:
 This is a simple password generator script that allows we to generate strong and secure passwords for your accounts. It takes user input for the username and desired password length and then generates a random password for we.
 
@@ -13,3 +14,5 @@ Using strong and unique passwords is crucial for the security of your online acc
 Security Considerations
 This script runs locally on your device, and no data is sent or stored anywhere else.
 The password generated is random and not stored anywhere, so it's essential to save the password securely after generating it.
+=======
+>>>>>>> a527f6286a272bbaddb2eaa51dd4145564d64403
